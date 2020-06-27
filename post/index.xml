@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on sstrgh</title>
+    <link>https://sstrgh.github.io/post/</link>
+    <description>Recent content in Posts on sstrgh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sstrgh.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Don&#39;t Uncle, Be On-call</title>
+      <link>https://sstrgh.github.io/post/incident-managment/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sstrgh.github.io/post/incident-managment/</guid>
+      <description>Title inspired by a similarly named campaign by healthhub.sg. We Singaporeans have a weird sense of humour, it&amp;rsquo;s a coping mechanism.
+Lets all just agree that being on-call is not fun. No enjoys getting paged during a ball game to fix undocumented &amp;ldquo;features&amp;rdquo;. Yet, whenever that pager rings, we drag ourselves to the table, begrudgingly access the logs and wonder not where the code went wrong, instead where we went wrong in choosing our careers.</description>
+    </item>
+    
+    <item>
+      <title>What Matters To Them</title>
+      <link>https://sstrgh.github.io/post/what-matters/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sstrgh.github.io/post/what-matters/</guid>
+      <description>As a new leader of 11 brilliant software engineers, I struggled to keep my team motivated given the current situation and I wrote this to share what worked for me in motivating the team.
+COVID-19 is forcing businesses to scale down their efforts which means that we lose the opportunity to work on projects that matter to us, with people that mattered to us.It happened to me too this year. I lost a fantastic job working with brilliant people solving exciting problems.</description>
+    </item>
+    
+    <item>
+      <title>The Third Shift</title>
+      <link>https://sstrgh.github.io/post/the-third-shift/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sstrgh.github.io/post/the-third-shift/</guid>
+      <description>When we were growing up, my siblings and I were taught to revere books. They were sacred enough that you were not allowed to touch it with your feet or drop it and should you accidentally do so, you promptly apologise. We were taught not to throw our notes into the bin after our exams and instead respectfully dispose of them. We even attended prayers where we brought our books and paid our tributes the Goddess of knowledge, Saraswati.</description>
+    </item>
+    
+  </channel>
+</rss>
